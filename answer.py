@@ -17,7 +17,9 @@ def number():
 def strings():
     """
     This is to review numbers and strings and basic operations.
+
     """
+    print('strings')
 
     # Assign a string "stevens" to a variable stevens.
 
